@@ -1,0 +1,4 @@
+export const SAMPLE_DATA_TYPE = 'SAMPLE_DATA_TYPE';
+export const FETCH_DATA = 'FETCH_DATA';
+export const FETCH_DATA_ERRORS = 'FETCH_DATA_ERRORS';
+export const CLEAR_DATA_ERRORS = 'CLEAR_DATA_ERRORS';

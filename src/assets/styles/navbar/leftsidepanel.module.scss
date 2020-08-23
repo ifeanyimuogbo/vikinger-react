@@ -1,0 +1,45 @@
+// Font Inports
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:400,500,600,700&display=swap');
+
+// .navigationWidget {
+//   width: 300px;
+//   padding-bottom: 40px;
+//   background-color: #fff;
+//   box-shadow: 0 0 40px 0 rgba(94, 92, 154, 0.06);
+//   position: relative;
+//   &.sidebar {
+//     height: 100%;
+//     padding-top: 80px;
+//     position: fixed;
+//     top: 0;
+//     z-index: 9999;
+//     &.left {
+//       left: 0;
+//     }
+//   }
+//   &.hidden {
+//     -webkit-transform: translate(-100%);
+//     transform: translate(-100%);
+//   }
+//   .navigationWidgetCover {
+//     width: 100%;
+//     height: 76px;
+//   }
+//   .userShortDescription {
+//     padding-top: 84px;
+//     position: relative;
+//     .userShortDescriptionAvatar {
+//       top: -116px;
+//       margin-left: -74px;
+//     }
+//   }
+// }
+
+// @media screen and (max-width: 680px) {
+//   .navigationWidget {
+//     &.navigationWidgetDesktop {
+//       display: none;
+//     }
+//   }
+// }
